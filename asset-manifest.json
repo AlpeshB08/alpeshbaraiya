@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "/alpeshbaraiya/static/css/main.18750d1e.css",
+    "main.js": "/alpeshbaraiya/static/js/main.2ebc6200.js",
+    "static/js/787.af8367d0.chunk.js": "/alpeshbaraiya/static/js/787.af8367d0.chunk.js",
+    "static/media/banner-image.jpg": "/alpeshbaraiya/static/media/banner-image.51f5c2a171ef4a1adfe2.jpg",
+    "static/media/tpc.png": "/alpeshbaraiya/static/media/tpc.ec4e7f267694011d864a.png",
+    "static/media/rhe-global.png": "/alpeshbaraiya/static/media/rhe-global.d3712176b77b1f1ee9ce.png",
+    "static/media/mutah-marriage.png": "/alpeshbaraiya/static/media/mutah-marriage.bba0166411e25b21dea5.png",
+    "static/media/lucence.png": "/alpeshbaraiya/static/media/lucence.7cca828124200f53fb1a.png",
+    "static/media/scholastic.png": "/alpeshbaraiya/static/media/scholastic.148dae10f9248cb3240f.png",
+    "static/media/css.png": "/alpeshbaraiya/static/media/css.1a57e67ac1fd2ea84d64.png",
+    "static/media/wymap.png": "/alpeshbaraiya/static/media/wymap.0511ab4cde9b7b722fa4.png",
+    "static/media/site-logo.svg": "/alpeshbaraiya/static/media/site-logo.9b23f7526a9996701fd011f2874ea6c3.svg",
+    "static/media/js.png": "/alpeshbaraiya/static/media/js.266bd9fb2663dcc057b4.png",
+    "static/media/optimization.svg": "/alpeshbaraiya/static/media/optimization.b216addb79775107df1df52a49c47548.svg",
+    "index.html": "/alpeshbaraiya/index.html",
+    "static/media/idea.svg": "/alpeshbaraiya/static/media/idea.6e6c57e5cd9a3b50bfc6c809a7967b9b.svg",
+    "static/media/book.svg": "/alpeshbaraiya/static/media/book.be1f95dcd76f2c5e9ee1ff8d9d398c63.svg",
+    "static/media/search.svg": "/alpeshbaraiya/static/media/search.63ccc1b07a06dd038890f3a75a09b113.svg",
+    "static/media/github.svg": "/alpeshbaraiya/static/media/github.a834617e8baeea6c6bebfa820c2a6951.svg",
+    "static/media/team.svg": "/alpeshbaraiya/static/media/team.50a387c9dee4f73e71fd6b74d1a575dc.svg",
+    "static/media/responsive.svg": "/alpeshbaraiya/static/media/responsive.cfad560ed48fbed31535ee36507d7f58.svg",
+    "static/media/codepen.svg": "/alpeshbaraiya/static/media/codepen.0cab3d47a8e6eed18ffa633a9cde020c.svg",
+    "static/media/codesandbox.svg": "/alpeshbaraiya/static/media/codesandbox.35d2a5be80fe3a87a232b869b86ea4ba.svg",
+    "static/media/linkedin.svg": "/alpeshbaraiya/static/media/linkedin.302dec975e630db13f192ee0ce57fafc.svg",
+    "static/media/up-arrow.svg": "/alpeshbaraiya/static/media/up-arrow.48bd2803eafcd24bb077bf4d08979bf7.svg",
+    "static/media/menu.svg": "/alpeshbaraiya/static/media/menu.f5d432bc994f34e14787c6961ab41970.svg",
+    "main.18750d1e.css.map": "/alpeshbaraiya/static/css/main.18750d1e.css.map",
+    "main.2ebc6200.js.map": "/alpeshbaraiya/static/js/main.2ebc6200.js.map",
+    "787.af8367d0.chunk.js.map": "/alpeshbaraiya/static/js/787.af8367d0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.18750d1e.css",
+    "static/js/main.2ebc6200.js"
+  ]
+}
