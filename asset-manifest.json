@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/alpeshbaraiya/static/css/main.3cf1683b.css",
-    "main.js": "/alpeshbaraiya/static/js/main.5b3f4efe.js",
+    "main.css": "/alpeshbaraiya/static/css/main.514dece9.css",
+    "main.js": "/alpeshbaraiya/static/js/main.fed4504c.js",
     "static/js/787.af8367d0.chunk.js": "/alpeshbaraiya/static/js/787.af8367d0.chunk.js",
     "static/media/banner-image.jpg": "/alpeshbaraiya/static/media/banner-image.51f5c2a171ef4a1adfe2.jpg",
     "static/media/tpc.png": "/alpeshbaraiya/static/media/tpc.ec4e7f267694011d864a.png",
@@ -32,12 +32,12 @@
     "static/media/linkedin.svg": "/alpeshbaraiya/static/media/linkedin.302dec975e630db13f192ee0ce57fafc.svg",
     "static/media/up-arrow.svg": "/alpeshbaraiya/static/media/up-arrow.55d2531d4ce3b6cd5931d9e591a5f216.svg",
     "static/media/menu.svg": "/alpeshbaraiya/static/media/menu.460a889811aca74f9d9baeb40b3fa9db.svg",
-    "main.3cf1683b.css.map": "/alpeshbaraiya/static/css/main.3cf1683b.css.map",
-    "main.5b3f4efe.js.map": "/alpeshbaraiya/static/js/main.5b3f4efe.js.map",
+    "main.514dece9.css.map": "/alpeshbaraiya/static/css/main.514dece9.css.map",
+    "main.fed4504c.js.map": "/alpeshbaraiya/static/js/main.fed4504c.js.map",
     "787.af8367d0.chunk.js.map": "/alpeshbaraiya/static/js/787.af8367d0.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.3cf1683b.css",
-    "static/js/main.5b3f4efe.js"
+    "static/css/main.514dece9.css",
+    "static/js/main.fed4504c.js"
   ]
 }
