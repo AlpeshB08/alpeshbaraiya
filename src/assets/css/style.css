@@ -1525,21 +1525,24 @@ button.rn-btn:hover::before {
     margin: -10px -10px;
   }
 }
-.slide .social-share-inner-left .social-share li {
+.social-share li {
   margin: 10px 12px;
 }
 @media only screen and (min-width: 992px) and (max-width: 1199px) {
-  .slide .social-share-inner-left .social-share li {
+  .social-share li {
     margin: 10px 10px;
   }
 }
 @media only screen and (max-width: 767px) {
-  .slide .social-share-inner-left .social-share li {
+  .social-share li {
     margin: 10px 10px;
   }
 }
-.slide .social-share-inner-left .social-share li a {
-  display: inline-block;
+.skill-share li span,
+.social-share li a {
+  display: flex;
+  align-items: center;
+  justify-content: center;
   width: 60px;
   height: 60px;
   line-height: 60px;
@@ -1552,8 +1555,10 @@ button.rn-btn:hover::before {
   background: var(--background-color-1);
   box-shadow: var(--shadow-1);
   position: relative;
+  padding: 10px;
 }
-.slide .social-share-inner-left .social-share li a::before {
+.skill-share li span::before,
+.social-share li a::before {
   content: "";
   position: absolute;
   transition: var(--transition);
@@ -1566,7 +1571,8 @@ button.rn-btn:hover::before {
   opacity: 0;
   z-index: -1;
 }
-.slide .social-share-inner-left .social-share li a svg {
+.skill-share li span svg,
+.social-share li a svg {
   color: var(--color-lightn);
   transition: var(--transition);
   stroke-width: 2;
@@ -1574,13 +1580,16 @@ button.rn-btn:hover::before {
   z-index: 2;
   width: 20px;
 }
-.slide .social-share-inner-left .social-share li a:hover {
+.skill-share li span:hover,
+.social-share li a:hover {
   transform: translateY(-3px);
 }
-.slide .social-share-inner-left .social-share li a:hover svg {
+.skill-share li span:hover svg,
+.social-share li a:hover svg {
   color: var(--color-white);
 }
-.slide .social-share-inner-left .social-share li a:hover::before {
+.skill-share li span:hover::before,
+.social-share li a:hover::before {
   opacity: 1;
 }
 .slide .skill-share-inner span.title {
@@ -1592,27 +1601,46 @@ button.rn-btn:hover::before {
   display: inline-block;
   margin-bottom: 20px;
 }
-.slide .skill-share-inner .skill-share {
+ .skill-share {
   flex-wrap: wrap;
   margin: -10px -12px;
 }
-.slide .skill-share-inner .skill-share li {
+ .skill-share li {
+  cursor: pointer;
   margin: 10px 12px;
-  line-height: 55px;
-  display: inline-block;
-  width: 60px;
-  height: 60px;
-  line-height: 60px;
-  text-align: center;
-  font-size: 14px;
-  letter-spacing: 2px;
-  text-transform: uppercase;
-  border-radius: 6px;
-  background: var(--background-color-1);
-  box-shadow: var(--shadow-1);
 }
-.slide .social-share-inner-left .social-share li a img,
-.slide .skill-share-inner .skill-share li img {
+.contact-details {
+  display: flex;
+  align-items: center;
+}
+
+.contact-details li {
+  margin-right: 50px;
+  display: flex;
+  align-items: center;
+}
+
+.contact-details li a,.contact-details li span {
+  display: block;
+  margin-left: 10px;
+  color: var(--color-heading);
+  font-size: 20px;
+  transition: color 0.3s;
+}
+
+.contact-details li img {
+  height: 25px;
+}
+
+.contact-details li a:hover, .contact-details li span:hover {
+  color: var(--color-primary);
+}
+#resume .skill-share li img {
+  max-height: 30px;
+}
+.skill-share li span img,
+.social-share li a img,
+ .skill-share li img {
   max-height: 25px;
   width: auto;
 }
@@ -3023,24 +3051,28 @@ body.white-version .rn-btn-ulderline {
 .white-version .slide .social-share-inner-left span.title.white-clr {
   color: var(--color-lightn);
 }
-.white-version .slide .social-share-inner-left .social-share li a {
+.white-version .skill-share li span,
+.white-version .social-share li a {
   box-shadow: var(--shadow-white-3);
   background: var(--gradient-box-w);
 }
-.white-version .slide .social-share-inner-left .social-share li a::before {
+.white-version .skill-share li span::before,
+.white-version .social-share li a::before {
   background: var(--gradient-red-hover);
 }
-.white-version .slide .social-share-inner-left .social-share li a svg {
+.white-version .skill-share li span svg,
+.white-version .social-share li a svg {
   color: var(--color-body-white);
 }
-.white-version .slide .social-share-inner-left .social-share li a:hover svg {
+.white-version .skill-share li span:hover svg,
+.white-version .social-share li a:hover svg {
   color: var(--color-white);
 }
 .white-version .slide .skill-share-inner span.title {
   color: var(--color-heading-wv);
   font-weight: 500;
 }
-.white-version .slide .skill-share-inner .skill-share li {
+.white-version  .skill-share li {
   background: var(--gradient-box-w);
   box-shadow: var(--shadow-white-3);
 }

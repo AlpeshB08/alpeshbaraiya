@@ -72,10 +72,10 @@ const Banner = () => {
                                             <div className="skill-share-inner">
                                                 <span className="title">best skill on</span>
                                                 <ul className="skill-share d-flex liststyle">
-                                                    <li title="HTML"><img src={HTMLLogo} alt="HTML" /></li>
-                                                    <li title="CSS"><img src={CSSLogo} alt="CSS" /></li>
-                                                    <li title="JS"><img src={JsLogo} alt="JS" /></li>
-                                                    <li title="React"><img src={ReactLogo} alt="React" /></li>
+                                                    <li title="HTML"><span><img src={HTMLLogo} alt="HTML" /></span></li>
+                                                    <li title="CSS"><span><img src={CSSLogo} alt="CSS" /></span></li>
+                                                    <li title="JS"><span><img src={JsLogo} alt="JS" /></span></li>
+                                                    <li title="React"><span><img src={ReactLogo} alt="React" /></span></li>
                                                 </ul>
                                             </div>
                                         </div>
