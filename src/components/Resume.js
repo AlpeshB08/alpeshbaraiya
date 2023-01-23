@@ -193,7 +193,7 @@ const Resume = () => {
                                 <div className="tab-pane fade" id="contact" role="tabpanel" aria-labelledby="contact-tab">
                                     <div className="personal-experience-inner mt-30">
                                         <div className="row">
-                                            <div className="col-lg-6 col-md-6 col-12">
+                                            <div className="col-12">
                                                 <div className="progress-wrapper">
                                                     <div className="content">
                                                     <span className="subtitle">Connect</span>
