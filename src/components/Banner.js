@@ -1,7 +1,7 @@
 import React from 'react';
 // import { TypeAnimation } from 'react-type-animation';
 import Typed from "react-typed"
-import BannerImage from '../assets/images/banner-image.jpg'
+import BannerImage from '../assets/images/banner-image.png'
 import HTMLLogo from '../assets/images/icons/html.png'
 import CSSLogo from '../assets/images/icons/css.png'
 import JsLogo from '../assets/images/icons/js.png'
