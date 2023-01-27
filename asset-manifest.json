@@ -1,11 +1,11 @@
 {
   "files": {
     "main.css": "/alpeshbaraiya/static/css/main.514dece9.css",
-    "main.js": "/alpeshbaraiya/static/js/main.1dfce55e.js",
+    "main.js": "/alpeshbaraiya/static/js/main.d8cf8d0f.js",
     "static/js/787.af8367d0.chunk.js": "/alpeshbaraiya/static/js/787.af8367d0.chunk.js",
-    "static/media/banner-image.png": "/alpeshbaraiya/static/media/banner-image.f622c1c5cbfae468a45c.png",
     "static/media/tpc.png": "/alpeshbaraiya/static/media/tpc.ec4e7f267694011d864a.png",
     "static/media/rhe-global.png": "/alpeshbaraiya/static/media/rhe-global.d3712176b77b1f1ee9ce.png",
+    "static/media/banner-image.png": "/alpeshbaraiya/static/media/banner-image.13240d28ca9b3db08de1.png",
     "static/media/mutah-marriage.png": "/alpeshbaraiya/static/media/mutah-marriage.bba0166411e25b21dea5.png",
     "static/media/lucence.png": "/alpeshbaraiya/static/media/lucence.7cca828124200f53fb1a.png",
     "static/media/scholastic.png": "/alpeshbaraiya/static/media/scholastic.148dae10f9248cb3240f.png",
@@ -33,11 +33,11 @@
     "static/media/up-arrow.svg": "/alpeshbaraiya/static/media/up-arrow.55d2531d4ce3b6cd5931d9e591a5f216.svg",
     "static/media/menu.svg": "/alpeshbaraiya/static/media/menu.460a889811aca74f9d9baeb40b3fa9db.svg",
     "main.514dece9.css.map": "/alpeshbaraiya/static/css/main.514dece9.css.map",
-    "main.1dfce55e.js.map": "/alpeshbaraiya/static/js/main.1dfce55e.js.map",
+    "main.d8cf8d0f.js.map": "/alpeshbaraiya/static/js/main.d8cf8d0f.js.map",
     "787.af8367d0.chunk.js.map": "/alpeshbaraiya/static/js/787.af8367d0.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.514dece9.css",
-    "static/js/main.1dfce55e.js"
+    "static/js/main.d8cf8d0f.js"
   ]
 }
