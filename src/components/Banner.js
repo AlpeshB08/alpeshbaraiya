@@ -22,7 +22,7 @@ const Banner = () => {
                                 <div className="content">
                                     <div className="inner">
                                         <span className="subtitle">Welcome to my world</span>
-                                        <h1 className="title">Hi, I’m <span>Alpesh Baraiya</span><br />
+                                        <h1 className="title">Hi, I'm <span>Alpesh Baraiya</span><br />
                                             <span className="header-caption" id="page-top">
                                                 <span className="cd-headline clip is-full-width">
                                                     <span>a </span>
